@@ -11,4 +11,5 @@ The additional features are:
 Running the Spring Boot Admin Server as a Docker container:
 
 docker build -t tagname .
+
 docker run -dp 8762:8762 tagname
