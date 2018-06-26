@@ -13,3 +13,5 @@ Running the Spring Boot Admin Server as a Docker container:
 docker build -t tagname .
 
 docker run -dp 8762:8762 tagname
+
+Alternatively the Docker image can be pulled from this url: https://hub.docker.com/r/daveajlee/spring-boot-admin-server/
