@@ -1,4 +1,7 @@
 # spring-boot-admin-server
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/7ce8f8d751c543e9a886cf84361c192b)](https://app.codacy.com/manual/dave_33/spring-boot-admin-server?utm_source=github.com&utm_medium=referral&utm_content=daveajlee/spring-boot-admin-server&utm_campaign=Badge_Grade_Dashboard)
+
 Spring Boot Admin is a tool for managing Spring Boot Applications from CodeCentric. This repository contains a basic spring boot admin server together with Eureka service discovery and which can be run in docker.
 
 The contents are largely based on the Getting Started Tutorial from Spring: <http://codecentric.github.io/spring-boot-admin/1.5.4/#getting-started>
