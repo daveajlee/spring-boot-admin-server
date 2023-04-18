@@ -4,7 +4,10 @@
 
 Spring Boot Admin is a tool for managing Spring Boot Applications from CodeCentric. This repository contains a basic spring boot admin server together with Eureka service discovery and which can be run in docker.
 
-The contents are largely based on the Getting Started Tutorial from Spring: <http://codecentric.github.io/spring-boot-admin/1.5.4/#getting-started>
+The contents are largely based on the Getting Started Tutorial from Spring: <http://docs.spring-boot-admin.com/current/index.html>
+
+Requirements:
+- Java 17+
 
 The additional features are:
 *   Uses Spring Boot Eureka to discover spring boot containers.
