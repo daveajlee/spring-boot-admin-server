@@ -4,7 +4,7 @@
 
 	<groupId>de.davelee</groupId>
 	<artifactId>spring-boot-admin-server</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<parent>
@@ -22,7 +22,7 @@
 	<scm>
 		<connection>scm:git:https://github.com/daveajlee/spring-boot-admin-server</connection>
 		<url>https://github.com/daveajlee/spring-boot-admin-server</url>
-		<tag>v1.0.0</tag>
+		<tag>HEAD</tag>
 	</scm>
 
 	<!-- GitHub Packages -->
